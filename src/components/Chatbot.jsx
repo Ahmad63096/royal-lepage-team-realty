@@ -76,7 +76,8 @@ function Chatbot() {
                   <i className="fa-solid fa-arrow-left"></i>
                 </span>
                 {/* <span className="dropdown" id="dropdown">
-                  <i className="fa-solid fa-ellipsis"></i>
+                  <i className="fa-so
+                  lid fa-ellipsis"></i>
                 </span> */}
               </div>
               <span className="title" >Royal LePage Team Realty</span>
